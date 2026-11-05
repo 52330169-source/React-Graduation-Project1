@@ -3,7 +3,7 @@ import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
-
+// my fisrt git app
 function App() {
   const [count, setCount] = useState(0)
 
@@ -117,6 +117,8 @@ function App() {
       <section id="spacer"></section>
     </>
   )
+
+
 }
 
 export default App
